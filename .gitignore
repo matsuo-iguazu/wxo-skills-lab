@@ -1,0 +1,11 @@
+.venv/
+ibm-watsonx-orchestrate-adk/
+*_exported.yaml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Windows/WSL
+*:Zone.Identifier
