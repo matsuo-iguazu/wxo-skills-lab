@@ -1,4 +1,5 @@
 .venv/
+.env
 ibm-watsonx-orchestrate-adk/
 *_exported.yaml
 
